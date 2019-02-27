@@ -1,1 +1,1 @@
- return structs and accept interfaces"
+ return and accept interfaces"
